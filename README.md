@@ -1,6 +1,6 @@
 # kingsmen
 
-This is a homework doe by me from GA.
+This is a homework done by me from GA.
 
 Stack use
 
